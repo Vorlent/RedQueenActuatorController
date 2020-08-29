@@ -1,0 +1,41 @@
+{
+    "MPN": [
+        false,
+        "RB168L100DDTE25"
+    ],
+    "datasheet": [
+        false,
+        "https://eu.mouser.com/datasheet/2/348/rb168l100ddte25-e-1870012.pdf"
+    ],
+    "description": [
+        false,
+        "100V Schottky barrier diode"
+    ],
+    "entity": "cba5158c-706d-4f10-b48a-2de7e5a82a4c",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "ROHM"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "3785452e-bf8f-49d8-96e8-5a501202acee",
+    "pad_map": {
+        "1ae17e54-8a38-40bd-8858-909de3bd148c": {
+            "gate": "3a9cf76e-893b-4785-a6af-6f15da2086dc",
+            "pin": "16ee5a5c-8eea-4447-ad48-04d973776e3a"
+        },
+        "b443a1a4-6f13-4001-bf26-bcfa57f3ec0b": {
+            "gate": "3a9cf76e-893b-4785-a6af-6f15da2086dc",
+            "pin": "b57ca2a1-1bbf-43f0-b0a0-bf953094a8de"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "0673d6d5-caf0-40fa-b57d-f8a24b784770",
+    "value": [
+        false,
+        ""
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "MPN": [
+        false,
+        "SRN8040TA-221M"
+    ],
+    "datasheet": [
+        false,
+        "https://www.bourns.com/docs/product-datasheets/srn8040ta.pdf?sfvrsn=94b267f6_21"
+    ],
+    "description": [
+        false,
+        "Semi-shielded Power Inductor"
+    ],
+    "entity": "1d534e1d-704a-4d44-a6e6-c6106a2827ab",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Bourns"
+    ],
+    "model": "a6e9076a-b217-49bd-821a-22538397e305",
+    "package": "91dbda58-813a-41e1-bf4c-d9b95b6d8f3c",
+    "pad_map": {
+        "325a123e-0c4f-4696-98bf-2dc1f3b25416": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        },
+        "586ac8a1-eea4-4293-9ec4-5ad733025552": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        }
+    },
+    "parametric": {
+        "dcr": "0.61",
+        "idc": "0.85",
+        "table": "inductors",
+        "value": "0.00022"
+    },
+    "tags": [
+        "inductor",
+        "passive",
+        "smd"
+    ],
+    "type": "part",
+    "uuid": "839660bc-6c9d-4bb4-9c89-a0744f36bd20",
+    "value": [
+        false,
+        "220.00 µH"
+    ]
+}

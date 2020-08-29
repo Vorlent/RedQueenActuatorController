@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "a8457d76-4d7d-4f6a-98e3-643121b0719c": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "571f1734-99ac-4629-8092-2c6719ae21fc"
+        }
+    },
+    "manufacturer": "Nexperia",
+    "name": "BUK7K29-100EX",
+    "prefix": "Q",
+    "tags": [],
+    "type": "entity",
+    "uuid": "99c61b1f-76ec-4838-8f9d-9e3d7324ac2d"
+}

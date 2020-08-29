@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "f6290341-8946-432a-80d2-2d25ee68ecf4": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "ed8eb83d-81ef-41d1-8a4b-9e86ee765e62"
+        }
+    },
+    "manufacturer": "Qorvo",
+    "name": "PAC5523QM",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "3550c3ab-a908-4723-aa90-0e49a224fc31"
+}

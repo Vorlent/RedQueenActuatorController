@@ -1,0 +1,44 @@
+{
+    "manufacturer": "Nexperia",
+    "name": "BUK7K29-100EX ",
+    "pins": {
+        "04fe7d93-9a72-4dc6-8cc1-38b86c2af133": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "S2",
+            "swap_group": 0
+        },
+        "0e15df7a-3331-4e2b-b219-c3da7aaccaf3": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "G1",
+            "swap_group": 0
+        },
+        "151b7c1c-d42c-41ba-8520-a41faf879556": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "D2",
+            "swap_group": 0
+        },
+        "41b5b29d-f603-46c5-9f56-e706638371d6": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "S1",
+            "swap_group": 0
+        },
+        "9ecdd8e5-fd95-4702-8815-79ce366d9249": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "D1",
+            "swap_group": 0
+        },
+        "e3e67a11-685b-4f4b-890f-ab59b0bad846": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "G2",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "571f1734-99ac-4629-8092-2c6719ae21fc"
+}
