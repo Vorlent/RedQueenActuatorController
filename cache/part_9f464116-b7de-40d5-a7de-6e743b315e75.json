@@ -1,0 +1,56 @@
+{
+    "MPN": [
+        false,
+        "PSMN038-100YLX"
+    ],
+    "datasheet": [
+        false,
+        "https://eu.mouser.com/datasheet/2/916/PSMN038-100YL-1320627.pdf"
+    ],
+    "description": [
+        false,
+        "N-channel 100 V 37.5 mΩ logic level MOSFET in LFPAK56"
+    ],
+    "entity": "c135130c-0663-4575-9083-3b328ac00c90",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Nexperia"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "21a23e79-d922-4607-9273-00a82cf8859e",
+    "pad_map": {
+        "41c56d61-f4e9-439b-a009-66308dfe926b": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "4887ef47-94f0-4fd1-b552-c424bd37a3e7"
+        },
+        "4d272737-6dba-422f-a86c-451a457229c6": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "eb63ac9a-5d7e-42e2-92ea-a140a97f47d0"
+        },
+        "6934c5a1-c45a-4f81-8176-583799d68e18": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "074c3718-08fd-4f94-88fc-2bb43174b245"
+        },
+        "91491c36-319e-4304-8341-379e2f3f25e6": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "eb63ac9a-5d7e-42e2-92ea-a140a97f47d0"
+        },
+        "cab2bded-9ea9-47bd-bd6e-1c5bf2249e28": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "eb63ac9a-5d7e-42e2-92ea-a140a97f47d0"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "mosfet",
+        "smd"
+    ],
+    "type": "part",
+    "uuid": "9f464116-b7de-40d5-a7de-6e743b315e75",
+    "value": [
+        false,
+        ""
+    ]
+}

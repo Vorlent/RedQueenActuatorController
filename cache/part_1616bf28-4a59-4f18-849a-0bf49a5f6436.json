@@ -1,0 +1,49 @@
+{
+    "MPN": [
+        false,
+        "352247RJT"
+    ],
+    "datasheet": [
+        false,
+        "https://eu.mouser.com/datasheet/2/418/5/NG_DS_9_1773463_7_B-1113509.pdf"
+    ],
+    "description": [
+        false,
+        ""
+    ],
+    "entity": "3ce770af-7be0-4f72-b2af-2c8010911aaf",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "TE Connectivity"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "package": "6d92c441-a89c-4b1e-b96b-31ace1e54a88",
+    "pad_map": {
+        "2336786e-1752-4ae2-bec5-2a1f68e91ab8": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        },
+        "5d0d574c-8bbe-409f-a259-22f7cd7a0ae5": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        }
+    },
+    "parametric": {
+        "pmax": "3",
+        "table": "resistors",
+        "tolerance": "5",
+        "value": "47"
+    },
+    "tags": [
+        "resistor",
+        "smd"
+    ],
+    "type": "part",
+    "uuid": "1616bf28-4a59-4f18-849a-0bf49a5f6436",
+    "value": [
+        false,
+        "47.00 Ω"
+    ]
+}

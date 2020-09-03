@@ -1,0 +1,47 @@
+{
+    "MPN": [
+        false,
+        "150060YS75000"
+    ],
+    "datasheet": [
+        false,
+        "https://eu.mouser.com/datasheet/2/445/150060YS75000-1714372.pdf"
+    ],
+    "description": [
+        false,
+        "Yellow LED, 20mA"
+    ],
+    "entity": "f061691a-7954-4797-9529-dba6527d8f4f",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Wurth Elektronik"
+    ],
+    "model": "4aa5e1f7-312d-4fc9-bfee-0d6048b581f1",
+    "orderable_MPNs": {
+        "cc0a1964-1fe5-482e-bf0a-427332b1e78e": "150060YS75000"
+    },
+    "package": "ee1f4a18-2a52-4c17-a02d-371ea0ab343f",
+    "pad_map": {
+        "1a32a4c6-0adc-4947-ab27-c14c3380ecc6": {
+            "gate": "c8168f99-a1ca-4d98-bbb7-066f8cad2346",
+            "pin": "3c305ca9-14d3-40b4-a365-8938959c043e"
+        },
+        "dec661f3-a37e-4510-b296-a64510e72bd3": {
+            "gate": "c8168f99-a1ca-4d98-bbb7-066f8cad2346",
+            "pin": "f3a0ce45-6d5e-453b-9649-33baf57cc7b7"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "led",
+        "smd"
+    ],
+    "type": "part",
+    "uuid": "aa7ed3a1-cf06-4160-a6aa-f10f7f447187",
+    "value": [
+        false,
+        ""
+    ]
+}

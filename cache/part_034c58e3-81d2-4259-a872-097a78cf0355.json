@@ -1,0 +1,53 @@
+{
+    "MPN": [
+        false,
+        "WSLF25121L000FEA"
+    ],
+    "datasheet": [
+        false,
+        "https://eu.mouser.com/datasheet/2/427/wslf-1762044.pdf"
+    ],
+    "description": [
+        false,
+        "Power Metal Strip Resistor"
+    ],
+    "entity": "3ce770af-7be0-4f72-b2af-2c8010911aaf",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Vishay"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "5a623dc8-508e-443a-8d7b-15f2f569ac9e": "WSLF25121L000FEA"
+    },
+    "package": "6d92c441-a89c-4b1e-b96b-31ace1e54a88",
+    "pad_map": {
+        "2336786e-1752-4ae2-bec5-2a1f68e91ab8": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        },
+        "5d0d574c-8bbe-409f-a259-22f7cd7a0ae5": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        }
+    },
+    "parametric": {
+        "pmax": "5",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "0.001"
+    },
+    "tags": [
+        "passive",
+        "resistor",
+        "smd"
+    ],
+    "type": "part",
+    "uuid": "034c58e3-81d2-4259-a872-097a78cf0355",
+    "value": [
+        false,
+        "1.00 mΩ"
+    ]
+}
