@@ -1,12 +1,22 @@
 {
     "arcs": {},
-    "default_model": "00000000-0000-0000-0000-000000000000",
+    "default_model": "8aaa8c75-778c-4c26-9639-035c0993e9f4",
     "dimensions": {},
     "junctions": {},
     "keepouts": {},
     "lines": {},
     "manufacturer": "Nexperia",
-    "models": {},
+    "models": {
+        "8aaa8c75-778c-4c26-9639-035c0993e9f4": {
+            "filename": "3d_models/manufacturer/nexperia/SOT669.step",
+            "pitch": 0,
+            "roll": 0,
+            "x": -300000,
+            "y": 0,
+            "yaw": 16384,
+            "z": 300000
+        }
+    },
     "name": "SOT669",
     "pads": {
         "2bcb18d9-f65e-411c-8b81-2418e98d7e8a": {
