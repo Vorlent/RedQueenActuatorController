@@ -13,7 +13,7 @@
             "sort_column": "refdes"
         },
         "orderable_MPNs": {},
-        "output_filename": ""
+        "output_filename": "/home/vorlent/Downloads/BOM.csv"
     },
     "buses": {},
     "components": {

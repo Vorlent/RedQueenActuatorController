@@ -101,7 +101,7 @@
     "models": {
         "a6e9076a-b217-49bd-821a-22538397e305": {
             "filename": "3d_models/passive/inductor/SRN8040TA.stp",
-            "pitch": 0,
+            "pitch": 16384,
             "roll": 16384,
             "x": 0,
             "y": 0,
@@ -268,8 +268,8 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        -5000000,
-                        3750000
+                        -3986481,
+                        3995202
                     ],
                     "type": "line"
                 },
@@ -280,8 +280,8 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        -5000000,
-                        -3750000
+                        -3998750,
+                        -3974968
                     ],
                     "type": "line"
                 },
@@ -292,8 +292,8 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        5000000,
-                        -3750000
+                        3971801,
+                        -3977571
                     ],
                     "type": "line"
                 },
@@ -304,8 +304,8 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        5000000,
-                        3750000
+                        4013429,
+                        3957336
                     ],
                     "type": "line"
                 }
