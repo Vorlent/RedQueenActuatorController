@@ -1,6 +1,6 @@
 {
     "arcs": {},
-    "default_model": "00000000-0000-0000-0000-000000000000",
+    "default_model": "fe2d5b1a-6a0e-4178-951c-c17ae1a3ae38",
     "dimensions": {},
     "junctions": {
         "22d24658-2679-440e-974f-81e9ce742f5f": {
@@ -122,7 +122,17 @@
         }
     },
     "manufacturer": "",
-    "models": {},
+    "models": {
+        "fe2d5b1a-6a0e-4178-951c-c17ae1a3ae38": {
+            "filename": "3d_models/ic/so/SOT223.step",
+            "pitch": 16384,
+            "roll": 49152,
+            "x": 4900000,
+            "y": 2900000,
+            "yaw": 0,
+            "z": -3000000
+        }
+    },
     "name": "SOT-223-3",
     "pads": {
         "217704c2-8835-4b0c-8b6b-fc69ce53b13d": {

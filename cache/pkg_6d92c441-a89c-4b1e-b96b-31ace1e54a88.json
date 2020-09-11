@@ -46,11 +46,11 @@
     "manufacturer": "",
     "models": {
         "96c366ee-a963-41a0-9cc8-54c646979695": {
-            "filename": "3d_models/passive/resistor/R_1206_3216Metric.step",
+            "filename": "3d_models/manufacturer/vishay/WSLF2512 (0.001 ohm).step",
             "pitch": 0,
             "roll": 0,
             "x": 0,
-            "y": 0,
+            "y": -1600000,
             "yaw": 0,
             "z": 0
         }
