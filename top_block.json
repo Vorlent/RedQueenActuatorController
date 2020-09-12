@@ -626,7 +626,7 @@
         "5ad319db-7feb-4213-bad5-c8945ed97c89": {
             "connections": {
                 "48af78e5-730e-44eb-977a-cf188e4fcb39/6a44037c-65e2-4876-9359-42890048841d": {
-                    "net": "5d715e63-3383-4f70-a5dd-2d4e9934bf97"
+                    "net": "7270435e-450d-4f38-8185-8272cb2e2bf9"
                 },
                 "48af78e5-730e-44eb-977a-cf188e4fcb39/dda0ec99-5d70-4fbe-a8db-897542e7554e": {
                     "net": "eb15c9a8-40c8-488e-b4da-49fc05b439b3"
@@ -1133,7 +1133,7 @@
                     "net": "d2f07db2-99d1-484d-a819-827dde0eb349"
                 },
                 "9bfcf213-2a7e-444e-8312-ce57209fc9ec/852f1fe6-06dc-4661-8a14-61a9a6ebb26a": {
-                    "net": "5d715e63-3383-4f70-a5dd-2d4e9934bf97"
+                    "net": "7270435e-450d-4f38-8185-8272cb2e2bf9"
                 }
             },
             "custom_pin_names": {},
@@ -1220,7 +1220,7 @@
         "960fbef6-6f3d-47af-8aee-f26b718a178c": {
             "connections": {
                 "48af78e5-730e-44eb-977a-cf188e4fcb39/6a44037c-65e2-4876-9359-42890048841d": {
-                    "net": "7270435e-450d-4f38-8185-8272cb2e2bf9"
+                    "net": "5d715e63-3383-4f70-a5dd-2d4e9934bf97"
                 },
                 "48af78e5-730e-44eb-977a-cf188e4fcb39/dda0ec99-5d70-4fbe-a8db-897542e7554e": {
                     "net": "917ec154-fb1d-41ae-827d-6a70eea9cd8d"
@@ -1712,7 +1712,7 @@
                     "net": "d2f07db2-99d1-484d-a819-827dde0eb349"
                 },
                 "9bfcf213-2a7e-444e-8312-ce57209fc9ec/852f1fe6-06dc-4661-8a14-61a9a6ebb26a": {
-                    "net": "7270435e-450d-4f38-8185-8272cb2e2bf9"
+                    "net": "5d715e63-3383-4f70-a5dd-2d4e9934bf97"
                 }
             },
             "custom_pin_names": {},
@@ -2455,7 +2455,7 @@
         },
         "ce6c156b-877b-4192-9114-3429c00b42db": {
             "is_power": false,
-            "name": "",
+            "name": "CSM",
             "net_class": "bc05194b-5e67-4433-a555-3d8ff80cd37c",
             "power_symbol_name_visible": true,
             "power_symbol_style": "gnd"
@@ -2553,7 +2553,7 @@
         },
         "ef51d1d9-7fd4-4e13-a9de-b884635539f7": {
             "is_power": false,
-            "name": "",
+            "name": "DRM",
             "net_class": "bc05194b-5e67-4433-a555-3d8ff80cd37c",
             "power_symbol_name_visible": true,
             "power_symbol_style": "gnd"
