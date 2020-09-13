@@ -1,0 +1,62 @@
+{
+    "manufacturer": "Infineon Technologies",
+    "name": "TLE9250LEXUMA1",
+    "pins": {
+        "16a0be69-326f-4295-bf86-60d94d286c04": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "NEN",
+            "swap_group": 0
+        },
+        "262c66fa-863b-4080-9d94-355b06d022a0": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "TXD",
+            "swap_group": 0
+        },
+        "519f10bc-0a29-4b71-b55c-e96f43a7638a": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "CANH",
+            "swap_group": 0
+        },
+        "711d69ef-bddb-4bcd-8e55-365c10b17995": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "CANL",
+            "swap_group": 0
+        },
+        "7f3c52f7-d672-43d4-9017-d03f0fa393ed": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "PAD",
+            "swap_group": 0
+        },
+        "8939e9b3-40b1-4135-a6cd-77599d70ed70": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "RXD",
+            "swap_group": 0
+        },
+        "8dded2f9-b73a-4243-86d4-a02cac9c139d": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "a4fc5010-819e-4506-adbd-e8d21ec49fed": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "e6d89a64-3012-44a0-877c-8578d717edf9": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "NRM",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "c82b4f6d-eb44-48d3-89de-ca274e12a752"
+}
