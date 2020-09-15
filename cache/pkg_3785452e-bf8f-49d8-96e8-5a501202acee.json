@@ -1,6 +1,6 @@
 {
     "arcs": {},
-    "default_model": "00000000-0000-0000-0000-000000000000",
+    "default_model": "265d6e43-674f-4ddf-b269-563c06159f71",
     "dimensions": {},
     "junctions": {
         "08c4edd4-f6cb-4b60-ba51-5e428b6094d2": {
@@ -44,7 +44,17 @@
         }
     },
     "manufacturer": "ROHM",
-    "models": {},
+    "models": {
+        "265d6e43-674f-4ddf-b269-563c06159f71": {
+            "filename": "3d_models/diode/DO-214AC.stp",
+            "pitch": 0,
+            "roll": 0,
+            "x": 0,
+            "y": 0,
+            "yaw": 0,
+            "z": 1300000
+        }
+    },
     "name": "DO-214AC-2",
     "pads": {
         "1ae17e54-8a38-40bd-8858-909de3bd148c": {

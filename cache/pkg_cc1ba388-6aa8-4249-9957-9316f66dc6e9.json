@@ -46,13 +46,13 @@
     "manufacturer": "",
     "models": {
         "ab69a6c2-dd3e-4db4-964a-f18f80f5abdc": {
-            "filename": "3d_models/diode/D_SOD-123.step",
-            "pitch": 0,
-            "roll": 0,
-            "x": 0,
-            "y": 0,
+            "filename": "3d_models/diode/SOD523.step",
+            "pitch": 32768,
+            "roll": 49152,
+            "x": 900000,
+            "y": -1600000,
             "yaw": 0,
-            "z": 0
+            "z": -900000
         }
     },
     "name": "SOD523",

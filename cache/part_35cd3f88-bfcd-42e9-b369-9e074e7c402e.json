@@ -1,34 +1,31 @@
 {
     "MPN": [
         false,
-        "RR1220Q-100-D"
+        "CRCW060310R0JNEAC"
     ],
     "datasheet": [
         false,
-        "https://eu.mouser.com/datasheet/2/392/susumu_RR_Data_Sheet-1206438.pdf"
+        "https://www.mouser.de/datasheet/2/427/crcwce3-1762584.pdf"
     ],
     "description": [
         false,
-        "Metal thin film chip resistors"
+        "Thick Film Resistors - SMD 1/10Watt 10ohms 5% Commercial Use"
     ],
     "entity": "3ce770af-7be0-4f72-b2af-2c8010911aaf",
     "inherit_model": false,
     "inherit_tags": false,
     "manufacturer": [
         false,
-        "Susumu"
+        "Vishay"
     ],
     "model": "96c366ee-a963-41a0-9cc8-54c646979695",
-    "orderable_MPNs": {
-        "506734fb-30e7-43a8-9f42-1676287e46f6": "RR1220Q-100-D"
-    },
-    "package": "a894abc1-5b1c-4a52-90fc-5eb2e462b101",
+    "package": "fe22ac1d-25b9-4a47-8414-51c990d7f94b",
     "pad_map": {
-        "57416c85-ca47-45fe-a850-612e3405e61f": {
+        "63256dd2-2eab-46fe-9201-b2e553476e98": {
             "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
             "pin": "6a44037c-65e2-4876-9359-42890048841d"
         },
-        "b43013b4-017c-4242-8852-0ec05a2374d1": {
+        "6dd73a26-6e83-43b6-8317-09836acef67d": {
             "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
             "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
         }
@@ -36,16 +33,16 @@
     "parametric": {
         "pmax": "0.1",
         "table": "resistors",
-        "tolerance": "0.5",
+        "tolerance": "5",
         "value": "10"
     },
     "tags": [
         "passive",
-        "resist",
+        "resistor",
         "smd"
     ],
     "type": "part",
-    "uuid": "15fd7924-7ef5-4c50-9540-b6e1d64064ed",
+    "uuid": "35cd3f88-bfcd-42e9-b369-9e074e7c402e",
     "value": [
         false,
         "10 Ω"
