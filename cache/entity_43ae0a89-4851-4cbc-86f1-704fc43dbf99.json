@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "c3295024-e0bc-43d5-80fc-16caea46245f": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "51a6f200-23f6-4ea4-8391-8a31501c48a6"
+        }
+    },
+    "manufacturer": "Monolithic Power Systems",
+    "name": "MA710GQ-Z",
+    "prefix": "U",
+    "tags": [
+        "encoder",
+        "ic"
+    ],
+    "type": "entity",
+    "uuid": "43ae0a89-4851-4cbc-86f1-704fc43dbf99"
+}
