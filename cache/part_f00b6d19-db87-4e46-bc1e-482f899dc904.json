@@ -1,0 +1,46 @@
+{
+    "MPN": [
+        false,
+        "CRCW0603100KFKEAC"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.de/datasheet/2/427/crcwce3-1762584.pdf"
+    ],
+    "description": [
+        false,
+        "Thick Film Resistors 1/10Watt 100Kohms 1% Commercial Use"
+    ],
+    "entity": "3ce770af-7be0-4f72-b2af-2c8010911aaf",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Vishay"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "package": "fe22ac1d-25b9-4a47-8414-51c990d7f94b",
+    "pad_map": {
+        "63256dd2-2eab-46fe-9201-b2e553476e98": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        },
+        "6dd73a26-6e83-43b6-8317-09836acef67d": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        }
+    },
+    "parametric": {
+        "pmax": "0.1",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "100000"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "f00b6d19-db87-4e46-bc1e-482f899dc904",
+    "value": [
+        false,
+        "100k"
+    ]
+}
