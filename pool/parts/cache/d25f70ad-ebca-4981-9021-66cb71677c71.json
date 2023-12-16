@@ -1,0 +1,47 @@
+{
+    "MPN": [
+        false,
+        "1N4148X-TP"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.de/datasheet/2/258/1N4148X(SOD-523)-V1-1625641.pdf"
+    ],
+    "description": [
+        false,
+        "Diode 200mW 100Vrm 75Vr 53Vr 300mA 200mW"
+    ],
+    "entity": "c44a773c-cdf5-4193-b5be-ab54952f3f28",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Micro Commercial Components"
+    ],
+    "model": "ab69a6c2-dd3e-4db4-964a-f18f80f5abdc",
+    "orderable_MPNs": {
+        "9439edab-3064-47dc-89f4-ee99a72bf52a": "1N4148X-TP"
+    },
+    "package": "cc1ba388-6aa8-4249-9957-9316f66dc6e9",
+    "pad_map": {
+        "8133a3f5-6d99-4dc4-a354-b6c84ef34797": {
+            "gate": "e5da453c-ba97-4fa0-8e05-5f6b4e026f87",
+            "pin": "b57ca2a1-1bbf-43f0-b0a0-bf953094a8de"
+        },
+        "c65252bd-3d5d-4ec5-b5a4-0db825f07a51": {
+            "gate": "e5da453c-ba97-4fa0-8e05-5f6b4e026f87",
+            "pin": "16ee5a5c-8eea-4447-ad48-04d973776e3a"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "diode",
+        "smd"
+    ],
+    "type": "part",
+    "uuid": "d25f70ad-ebca-4981-9021-66cb71677c71",
+    "value": [
+        false,
+        ""
+    ]
+}

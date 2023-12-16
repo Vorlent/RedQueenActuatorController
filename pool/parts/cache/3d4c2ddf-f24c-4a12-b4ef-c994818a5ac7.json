@@ -1,0 +1,69 @@
+{
+    "MPN": [
+        false,
+        "TLE9250LEXUMA1"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.de/datasheet/2/196/Infineon-TLE9250-DataSheet-v01_11-EN-1274949.pdf"
+    ],
+    "description": [
+        false,
+        "High Speed CAN FD Transceiver"
+    ],
+    "entity": "00f4e433-bf07-49e1-97b5-e4263e41af81",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Infineon Technologies"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "1c7d62dc-bddf-4504-8365-784de0b635ef",
+    "pad_map": {
+        "5bfb67f4-07d0-4cdc-937d-1d43efba162f": {
+            "gate": "d923f055-6642-498b-8268-cd42b8d35bd2",
+            "pin": "8dded2f9-b73a-4243-86d4-a02cac9c139d"
+        },
+        "61ee1027-7a6f-44e7-ad46-c0c76c7729d3": {
+            "gate": "d923f055-6642-498b-8268-cd42b8d35bd2",
+            "pin": "8939e9b3-40b1-4135-a6cd-77599d70ed70"
+        },
+        "6dff717a-7e27-4727-ab3d-b01112204f5b": {
+            "gate": "d923f055-6642-498b-8268-cd42b8d35bd2",
+            "pin": "711d69ef-bddb-4bcd-8e55-365c10b17995"
+        },
+        "7cb829db-d54d-44ec-a1ab-0a37b4fd1c68": {
+            "gate": "d923f055-6642-498b-8268-cd42b8d35bd2",
+            "pin": "519f10bc-0a29-4b71-b55c-e96f43a7638a"
+        },
+        "81ace715-4b83-4b43-9248-d80def3e41dc": {
+            "gate": "d923f055-6642-498b-8268-cd42b8d35bd2",
+            "pin": "262c66fa-863b-4080-9d94-355b06d022a0"
+        },
+        "ab65e0c4-deb4-4c00-a4d8-74c1ee4f0381": {
+            "gate": "d923f055-6642-498b-8268-cd42b8d35bd2",
+            "pin": "a4fc5010-819e-4506-adbd-e8d21ec49fed"
+        },
+        "ce747429-891c-4542-bc6e-5eae62d871ce": {
+            "gate": "d923f055-6642-498b-8268-cd42b8d35bd2",
+            "pin": "e6d89a64-3012-44a0-877c-8578d717edf9"
+        },
+        "e0a15f8b-a91d-4b30-a161-fb4ed4f4a57c": {
+            "gate": "d923f055-6642-498b-8268-cd42b8d35bd2",
+            "pin": "16a0be69-326f-4295-bf86-60d94d286c04"
+        },
+        "e514d9d6-86c1-4bd6-a9d5-332215d4cac5": {
+            "gate": "d923f055-6642-498b-8268-cd42b8d35bd2",
+            "pin": "7f3c52f7-d672-43d4-9017-d03f0fa393ed"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "3d4c2ddf-f24c-4a12-b4ef-c994818a5ac7",
+    "value": [
+        false,
+        ""
+    ]
+}

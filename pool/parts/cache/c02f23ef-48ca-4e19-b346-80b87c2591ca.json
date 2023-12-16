@@ -1,0 +1,60 @@
+{
+    "MPN": [
+        false,
+        "5055670671"
+    ],
+    "datasheet": [
+        false,
+        "https://www.molex.com/molex/products/part-detail/pcb_headers/5055670671"
+    ],
+    "description": [
+        false,
+        "1.25mm Pitch, Micro-Lock Plus PCB Header, Right-Angle, Surface Mount, Tin-Bismuth Plating, Positive Lock, 6 Circuits, Tape and Reel, Black"
+    ],
+    "entity": "c92588a0-86ac-4b1c-aa07-b591777d2617",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Molex"
+    ],
+    "model": "a561ed8c-9995-4b2e-8fde-3d55ff3b093b",
+    "package": "3b299737-d5c9-4975-bf82-dbcf5a69ff70",
+    "pad_map": {
+        "1498d62a-5762-48ae-b3ca-9516003e3a33": {
+            "gate": "d5f74729-19b9-4eba-87f9-f789bd6babf8",
+            "pin": "dd9ef2c9-0256-4f19-b1a9-2a4dffd82261"
+        },
+        "98020f5c-8ea0-464f-a9ad-693ce3aafd80": {
+            "gate": "d5f74729-19b9-4eba-87f9-f789bd6babf8",
+            "pin": "4b24441b-cbeb-49bc-9a30-277a9a11c2b6"
+        },
+        "a604a895-6662-4ae0-bfd7-bae35696de1b": {
+            "gate": "d5f74729-19b9-4eba-87f9-f789bd6babf8",
+            "pin": "c3b4ba45-ad58-43eb-9709-a71e815d9012"
+        },
+        "b2e6c968-068f-43bd-a26b-86a88916adaf": {
+            "gate": "d5f74729-19b9-4eba-87f9-f789bd6babf8",
+            "pin": "b8924622-e129-4d44-a4ec-46cccc6fbcaf"
+        },
+        "b5258c80-2b1e-4ccd-8611-c95aa130bb6a": {
+            "gate": "d5f74729-19b9-4eba-87f9-f789bd6babf8",
+            "pin": "d5465e9d-439d-4a9c-b2a6-9ff92edf1f63"
+        },
+        "cde6a0eb-059e-4c25-ae1f-699e853c1959": {
+            "gate": "d5f74729-19b9-4eba-87f9-f789bd6babf8",
+            "pin": "203bb8a2-729f-4d85-9078-2023b941401f"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector",
+        "smd"
+    ],
+    "type": "part",
+    "uuid": "c02f23ef-48ca-4e19-b346-80b87c2591ca",
+    "value": [
+        false,
+        "5055670671"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "MPN": [
+        false,
+        "CR0805-J/-5R1ELF"
+    ],
+    "datasheet": [
+        false,
+        "https://eu.mouser.com/datasheet/2/54/crxxxxx-1858361.pdf"
+    ],
+    "description": [
+        false,
+        "Thick Film Chip Resistors"
+    ],
+    "entity": "3ce770af-7be0-4f72-b2af-2c8010911aaf",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Bourns"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "2ea5bce6-97fb-4ec0-a1f7-f2c0d4fccaac": "CR0805-J/-5R1ELF"
+    },
+    "package": "a894abc1-5b1c-4a52-90fc-5eb2e462b101",
+    "pad_map": {
+        "57416c85-ca47-45fe-a850-612e3405e61f": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        },
+        "b43013b4-017c-4242-8852-0ec05a2374d1": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        }
+    },
+    "parametric": {
+        "pmax": "0.125",
+        "table": "resistors",
+        "tolerance": "5",
+        "value": "5.1"
+    },
+    "tags": [
+        "pass",
+        "resistor",
+        "smd"
+    ],
+    "type": "part",
+    "uuid": "9566724a-498b-4cdd-ade9-006022593177",
+    "value": [
+        false,
+        "5.10 Ω"
+    ]
+}

@@ -1,0 +1,308 @@
+{
+    "manufacturer": "Qorvo",
+    "name": "PAC5523QM ",
+    "pins": {
+        "051a75ac-9b0c-405c-ac24-d72e6861d7c6": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PC5",
+            "swap_group": 0
+        },
+        "07c47f19-18e4-4271-a1ef-f5d2900fc6b4": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DRL0",
+            "swap_group": 0
+        },
+        "0da67f0f-7c31-4eba-b64a-7cd1bd01b1ec": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DRH4",
+            "swap_group": 0
+        },
+        "2032b6d8-8490-4f7f-860f-6ec7f751c59d": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DRH5",
+            "swap_group": 0
+        },
+        "28ef1510-eb6f-4210-88a3-18fe1e5495de": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "AIO5",
+            "swap_group": 0
+        },
+        "2923c736-9a72-44f3-bfae-26d42171b48a": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DRL2",
+            "swap_group": 0
+        },
+        "2bf754cd-a96d-4bbf-ac92-d1edcfef4bb8": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "AIO4",
+            "swap_group": 0
+        },
+        "30c7e7d3-a92e-4e59-8e2c-cb6d0abb98fd": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VCCIO",
+            "swap_group": 0
+        },
+        "4038b171-4068-4534-bbda-e368bb3fa473": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "AIO7",
+            "swap_group": 0
+        },
+        "4330f97c-ae8a-4b38-9300-2dea59ea4a1a": {
+            "direction": "bidirectional",
+            "names": [
+                "AD6"
+            ],
+            "primary_name": "PF6",
+            "swap_group": 0
+        },
+        "437f4e88-3ce5-4f74-a781-3919e384d66a": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "AIO0",
+            "swap_group": 0
+        },
+        "44a09301-2e6b-43bb-8643-df27e54bbc11": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PC6",
+            "swap_group": 0
+        },
+        "452bfb7b-19cd-40b9-ad68-a45aa532bec4": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PF3",
+            "swap_group": 0
+        },
+        "5538fcad-bb9a-4316-b623-b96a8ec90c18": {
+            "direction": "bidirectional",
+            "names": [
+                "AD5"
+            ],
+            "primary_name": "PF5",
+            "swap_group": 0
+        },
+        "61cdd2bb-e5d2-408e-bf69-0ed6960e2cd6": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PE1",
+            "swap_group": 0
+        },
+        "62a82f2f-71b8-4621-a81e-30888d480409": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DRL1",
+            "swap_group": 0
+        },
+        "64326c57-3345-4d4c-b6b9-556a8275a328": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VCC18",
+            "swap_group": 0
+        },
+        "6b96d376-5a61-4278-bb7f-078cb2bc228d": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PC4",
+            "swap_group": 0
+        },
+        "6c38cd5a-d03c-42b2-b9e7-f9554b51fbec": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "EPVSS",
+            "swap_group": 0
+        },
+        "6e3f42e8-9667-48e7-bc87-5e7419b4f701": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PC7",
+            "swap_group": 0
+        },
+        "6ef6fe59-f749-404d-9b27-3191743bb818": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VHM",
+            "swap_group": 0
+        },
+        "7724e36f-9646-4ffc-bd4e-2da13e14ace4": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "AIO6",
+            "swap_group": 0
+        },
+        "787407e5-705f-48a3-81d6-927f09fe1b02": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "REGO",
+            "swap_group": 0
+        },
+        "795b663d-9f9f-4faa-8805-7343c7ae7b39": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VSYS",
+            "swap_group": 0
+        },
+        "83ebaf8f-a91a-4913-8e86-d1f47484b2c5": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "AIO3",
+            "swap_group": 0
+        },
+        "88f758a2-93f3-4a7a-8131-5335798d1644": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VCORE",
+            "swap_group": 0
+        },
+        "8abbd186-345e-4bb7-8dd8-e97229734c4b": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PF2",
+            "swap_group": 0
+        },
+        "8b4f6a51-c837-415c-a636-d2d9de51bc23": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DRB5",
+            "swap_group": 0
+        },
+        "8e1ba5cc-cb65-4e10-bbeb-5120ae7fe589": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DRS3",
+            "swap_group": 0
+        },
+        "9499879a-ea2d-41bf-b3c2-452ddc229715": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PE0",
+            "swap_group": 0
+        },
+        "982999e6-ca76-4f96-b92e-cee98c813089": {
+            "direction": "bidirectional",
+            "names": [
+                "AD4"
+            ],
+            "primary_name": "PF4",
+            "swap_group": 0
+        },
+        "a8af14f8-6909-4ec3-9e7a-da4dbb035ca9": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DRS4",
+            "swap_group": 0
+        },
+        "abfeed42-c944-4102-991a-828328b8c1fb": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "AIO2",
+            "swap_group": 0
+        },
+        "b1d5c506-52c0-4068-ae73-5c0a41664c4d": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "AIO8",
+            "swap_group": 0
+        },
+        "b8230b46-1572-4243-ac4b-fbcee8d0128d": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VP",
+            "swap_group": 0
+        },
+        "b8294f0d-acc2-46ba-adf0-c5ad4f212478": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PE2",
+            "swap_group": 0
+        },
+        "baec5646-b2dd-442f-91c3-9d67d63f2b19": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DRB3",
+            "swap_group": 0
+        },
+        "c10c25a2-df70-4f66-820f-4dbf455dc413": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "AIO9",
+            "swap_group": 0
+        },
+        "c25a5731-2847-4d8e-b043-cfe0df2df7d6": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DRB4",
+            "swap_group": 0
+        },
+        "c87fbc22-10c4-4a89-96e8-9254cc77a040": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "DRM",
+            "swap_group": 0
+        },
+        "ccabd8eb-93df-4ad5-b7d7-6dd91396462f": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PF0",
+            "swap_group": 0
+        },
+        "d88bde9f-9e6d-4385-91fd-74fa2286ace4": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "CSM",
+            "swap_group": 0
+        },
+        "d94232f2-35e6-4194-8f08-bd2b5b70acb0": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "AIO1",
+            "swap_group": 0
+        },
+        "e8b9815d-a4f7-40ad-bd78-65137c0c354c": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VCC33",
+            "swap_group": 0
+        },
+        "e90c426d-8c46-40f8-9d5c-470b77eb0133": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VSS",
+            "swap_group": 0
+        },
+        "f27e9730-2316-43ec-9d04-66bd6d3389b1": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DRS5",
+            "swap_group": 0
+        },
+        "f59a500e-4dee-4ca4-b5f9-791f63a02a09": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PF1",
+            "swap_group": 0
+        },
+        "fb2e975a-cde0-4540-84f9-ecb390177416": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "PE3",
+            "swap_group": 0
+        },
+        "fcd31d9a-9f99-4eca-8391-b68064dfa837": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DRH3",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "ed8eb83d-81ef-41d1-8a4b-9e86ee765e62"
+}

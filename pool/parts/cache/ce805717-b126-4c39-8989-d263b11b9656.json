@@ -1,0 +1,54 @@
+{
+    "MPN": [
+        false,
+        "TMK316B7106KL-TD"
+    ],
+    "datasheet": [
+        false,
+        "https://eu.mouser.com/datasheet/2/396/mlcc02_e-1307760.pdf"
+    ],
+    "description": [
+        false,
+        "Multilayer Ceramic Capacitor"
+    ],
+    "entity": "ca83a84f-6183-4088-84b6-5d79b2a119d4",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Taiyo Yuden"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "abf42850-afee-48d4-aabe-55ab348c9f70": "TMK316B7106KL-TD"
+    },
+    "package": "965e812c-7750-4e7d-ac60-8c38102fcec9",
+    "pad_map": {
+        "af633f04-39de-4605-b33a-2010e8795070": {
+            "gate": "9bfcf213-2a7e-444e-8312-ce57209fc9ec",
+            "pin": "852f1fe6-06dc-4661-8a14-61a9a6ebb26a"
+        },
+        "dea5a138-9f86-4a13-a99d-2c1253f285f2": {
+            "gate": "9bfcf213-2a7e-444e-8312-ce57209fc9ec",
+            "pin": "29995253-b4b1-4c7c-a049-b6db2713ca7c"
+        }
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "10",
+        "type": "X7R",
+        "value": "1e-05",
+        "wvdc": "25"
+    },
+    "tags": [
+        "passive",
+        "resistor",
+        "smd"
+    ],
+    "type": "part",
+    "uuid": "ce805717-b126-4c39-8989-d263b11b9656",
+    "value": [
+        false,
+        "10 µF"
+    ]
+}

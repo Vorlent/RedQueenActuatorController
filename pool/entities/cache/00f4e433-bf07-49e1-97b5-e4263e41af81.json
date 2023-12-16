@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "d923f055-6642-498b-8268-cd42b8d35bd2": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "c82b4f6d-eb44-48d3-89de-ca274e12a752"
+        }
+    },
+    "manufacturer": "Infineon Technologies",
+    "name": "TLE9250LEXUMA1",
+    "prefix": "U",
+    "tags": [
+        "can",
+        "smd",
+        "transceiver"
+    ],
+    "type": "entity",
+    "uuid": "00f4e433-bf07-49e1-97b5-e4263e41af81"
+}

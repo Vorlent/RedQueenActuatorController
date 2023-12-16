@@ -1,0 +1,50 @@
+{
+    "MPN": [
+        false,
+        "EEU-FS1K221B"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.de/datasheet/2/315/Panasonic_08082018_Capacitor_Radial_Leaded_Lytic_(-1387098.pdf"
+    ],
+    "description": [
+        false,
+        "Aluminum Electrolytic Capacitors"
+    ],
+    "entity": "b0c2b8f8-aecf-4873-9458-c06eee2f7a00",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Panasonic"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "21b237ef-3d21-42df-a660-557269911c14",
+    "pad_map": {
+        "7ed1c112-6b3a-4d84-9edf-7b792727e114": {
+            "gate": "23766b63-6ffc-4831-baee-ba1635a735b3",
+            "pin": "bb8460b5-34e6-41b0-9a9f-10eed3a3d8d6"
+        },
+        "b65efffd-5cde-40c1-9895-edac20ebf8c3": {
+            "gate": "23766b63-6ffc-4831-baee-ba1635a735b3",
+            "pin": "1e7cd34f-86db-4b34-9e0b-c276756301ab"
+        }
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "20",
+        "type": "Electrolytic",
+        "value": "0.00022",
+        "wvdc": "80"
+    },
+    "tags": [
+        "capacitor",
+        "passive"
+    ],
+    "type": "part",
+    "uuid": "6e037085-7e35-4163-853b-3e583a96d470",
+    "value": [
+        false,
+        "220 µF"
+    ]
+}

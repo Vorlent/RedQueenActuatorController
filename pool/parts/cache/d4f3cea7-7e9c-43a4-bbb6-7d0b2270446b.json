@@ -1,0 +1,48 @@
+{
+    "MPN": [
+        false,
+        "530480310"
+    ],
+    "datasheet": [
+        false,
+        "https://www.molex.com/molex/products/part-detail/pcb_headers/0530480310"
+    ],
+    "description": [
+        false,
+        "1.25mm Pitch, PicoBlade PCB Header, Single Row, Right-Angle, Through Hole, Tin (Sn) Plating, Friction Lock, 3 Circuits, Tray, 2.30mm PC Tail Length"
+    ],
+    "entity": "dac08463-17e8-4eb3-b5b4-4d7be5775379",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Molex"
+    ],
+    "model": "9e7ecda7-4cb5-4612-ae72-218f0279c7e5",
+    "orderable_MPNs": {
+        "43b5745d-d267-4706-8dde-3f7f6ef9bab3": "530480310"
+    },
+    "package": "1458ac71-ec29-4f97-a5c0-adad8cb59756",
+    "pad_map": {
+        "11425fb1-1bf9-4ab1-91a4-06cf5ee9ecbb": {
+            "gate": "6cbea03f-31ec-49ea-9903-b9bf7b26e340",
+            "pin": "1803365d-f745-4921-a54f-c5df6afa6561"
+        },
+        "bedfa9b0-bbe9-478e-bce6-c39ab9c9fad5": {
+            "gate": "6cbea03f-31ec-49ea-9903-b9bf7b26e340",
+            "pin": "4c0e5d34-b007-432d-880b-3a3b8e963a14"
+        },
+        "d19b3174-91dc-48e7-a947-b3cbb9154293": {
+            "gate": "6cbea03f-31ec-49ea-9903-b9bf7b26e340",
+            "pin": "b22250f7-9956-4ac8-ada1-725b7ba800c8"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "d4f3cea7-7e9c-43a4-bbb6-7d0b2270446b",
+    "value": [
+        false,
+        "530480310"
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "MPN": [
+        false,
+        "530480410"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.de/datasheet/2/276/0530480410_PCB_HEADERS-170930.pdf"
+    ],
+    "description": [
+        false,
+        "Headers & Wire Housings RIGHT ANGLE HDR 4P"
+    ],
+    "entity": "64ffe153-20d8-4902-9321-1f18027cb84d",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Molex"
+    ],
+    "model": "9e7ecda7-4cb5-4612-ae72-218f0279c7e5",
+    "orderable_MPNs": {
+        "eef42d5f-5285-4926-a8d9-4acc32203ca7": "53048-0410"
+    },
+    "package": "16074524-8ae7-46e7-bf4b-8d8be442c2eb",
+    "pad_map": {
+        "403337b5-3783-47d5-b848-e06bdffe87d3": {
+            "gate": "a96a662e-2077-467f-9853-a01865f76ad6",
+            "pin": "aab503ca-26da-43ff-a268-cf0db0698910"
+        },
+        "483bba9e-1763-46d6-8c7b-876d95ea8298": {
+            "gate": "a96a662e-2077-467f-9853-a01865f76ad6",
+            "pin": "4b3e1234-17b7-41dc-af26-90574ec82303"
+        },
+        "7b9cd641-ce6e-45cc-a2ac-a625f7b3f78f": {
+            "gate": "a96a662e-2077-467f-9853-a01865f76ad6",
+            "pin": "423d0d6c-4330-417f-a6f0-267741d4c770"
+        },
+        "8f184c3f-b8e7-4c69-bf75-719b96d04748": {
+            "gate": "a96a662e-2077-467f-9853-a01865f76ad6",
+            "pin": "9c153b03-fb7b-4f99-a5ed-ca45d3ae512e"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector",
+        "picoblade",
+        "socket"
+    ],
+    "type": "part",
+    "uuid": "fcf99f6a-f081-4506-b7da-47a8c973791d",
+    "value": [
+        false,
+        "530480410"
+    ]
+}

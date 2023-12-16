@@ -1,0 +1,110 @@
+{
+    "manufacturer": "Monolithic Power Systems",
+    "name": "MA710GQ-Z",
+    "pins": {
+        "0651ff9e-f293-4228-b76c-f3597a62a183": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "0a5656ea-3539-423b-9c8e-29900815e383": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "PWM",
+            "swap_group": 0
+        },
+        "26a51127-7dfe-4394-90a0-ba591c14a89e": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "MGL",
+            "swap_group": 0
+        },
+        "3267a95a-baec-4c57-8944-f02d8b2d435a": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "MGH",
+            "swap_group": 0
+        },
+        "36716bf3-65b1-428c-884b-54cc4c16a83c": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "PAD",
+            "swap_group": 0
+        },
+        "47886767-3f42-4639-83cf-badd26ae4cdb": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SSCK",
+            "swap_group": 0
+        },
+        "4b49eb7c-88f3-4aa8-a05a-d701d84bc454": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "NC",
+            "swap_group": 0
+        },
+        "618e0647-f833-4da2-972d-a786dfe0e4ca": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SSD",
+            "swap_group": 0
+        },
+        "63f1337e-3fd1-4f74-89e8-26a796308168": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "A",
+            "swap_group": 0
+        },
+        "809e4928-1b88-4ca8-83ea-f6952b31e257": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "B",
+            "swap_group": 0
+        },
+        "81d340b0-3958-4310-b31c-9ee18bdf9c18": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "MISO",
+            "swap_group": 0
+        },
+        "8e233a95-55b3-45c9-a926-5e98ea21eb72": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "TEST",
+            "swap_group": 0
+        },
+        "9764a48e-4869-4044-bcdb-b41267e7c0a3": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "Z",
+            "swap_group": 0
+        },
+        "996e7422-b819-4d20-9061-268f1bf34465": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        },
+        "b5bc29e6-6e50-43f6-9420-43a531a0737d": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SCLK",
+            "swap_group": 0
+        },
+        "c75a938d-7c11-4bd3-ad2c-7ec67e03fc3c": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "MOSI",
+            "swap_group": 0
+        },
+        "da7d4055-509f-4d17-9ced-9b41d3443933": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CS",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "51a6f200-23f6-4ea4-8391-8a31501c48a6"
+}

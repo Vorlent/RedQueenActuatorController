@@ -1,0 +1,101 @@
+{
+    "arcs": {},
+    "default_model": "00000000-0000-0000-0000-000000000000",
+    "dimensions": {},
+    "junctions": {},
+    "keepouts": {},
+    "lines": {},
+    "manufacturer": "",
+    "models": {},
+    "name": "NetSplitter",
+    "pads": {
+        "94e24d58-a1d2-48c1-81f7-8c580aa224bb": {
+            "name": "2",
+            "padstack": "8b73aa61-1aa3-402e-a9e4-fb04d231a315",
+            "parameter_set": {},
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    200000,
+                    0
+                ]
+            }
+        },
+        "cab34756-f67b-4b8d-8e3f-4317dc8ca725": {
+            "name": "1",
+            "padstack": "8b73aa61-1aa3-402e-a9e4-fb04d231a315",
+            "parameter_set": {},
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -200000,
+                    0
+                ]
+            }
+        }
+    },
+    "parameter_program": "",
+    "parameter_set": {},
+    "polygons": {
+        "faa40d6b-01c8-4c44-b567-8ae1abd63533": {
+            "layer": 0,
+            "parameter_class": "",
+            "vertices": [
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -200000,
+                        100000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        200000,
+                        100000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        200000,
+                        -100000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -200000,
+                        -100000
+                    ],
+                    "type": "line"
+                }
+            ]
+        }
+    },
+    "tags": [],
+    "texts": {},
+    "type": "package",
+    "uuid": "2d9b43b3-1827-4b51-a34e-62dcb8afcfe0"
+}

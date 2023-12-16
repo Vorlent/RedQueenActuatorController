@@ -1,0 +1,52 @@
+{
+    "MPN": [
+        false,
+        "BCP56-10HX"
+    ],
+    "datasheet": [
+        false,
+        "https://eu.mouser.com/datasheet/2/916/BCP56H_SER-1371757.pdf"
+    ],
+    "description": [
+        false,
+        "80 V, 1 A NPN medium power transistor"
+    ],
+    "entity": "15e94b7a-b7c9-4bf2-820c-11074dc0718e",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Nexperia"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "360d03a8-9a5c-463e-b028-d52c43103eb6",
+    "pad_map": {
+        "217704c2-8835-4b0c-8b6b-fc69ce53b13d": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "4887ef47-94f0-4fd1-b552-c424bd37a3e7"
+        },
+        "2448fec0-ac9a-4d86-8971-cb8497919418": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "074c3718-08fd-4f94-88fc-2bb43174b245"
+        },
+        "39f4d062-94ef-46d9-aac0-cad54728dc93": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "4887ef47-94f0-4fd1-b552-c424bd37a3e7"
+        },
+        "f6b30622-42d0-4cd9-9b01-6ad9b74a9392": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "eb63ac9a-5d7e-42e2-92ea-a140a97f47d0"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "smd",
+        "transistor"
+    ],
+    "type": "part",
+    "uuid": "53e8a687-c91a-4b50-a755-05eea4867593",
+    "value": [
+        false,
+        ""
+    ]
+}

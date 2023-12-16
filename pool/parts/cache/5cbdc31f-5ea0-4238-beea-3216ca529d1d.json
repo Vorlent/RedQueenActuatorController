@@ -1,0 +1,49 @@
+{
+    "MPN": [
+        false,
+        "CRGCQ0603F100R"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.de/datasheet/2/418/4/NG_DS_1773204-3_1-1358553.pdf"
+    ],
+    "description": [
+        false,
+        "Thick Film Resistors - SMD CRGCQ 0603 100R 1% SMD Resistor"
+    ],
+    "entity": "3ce770af-7be0-4f72-b2af-2c8010911aaf",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "TE Connectivity"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "9033a68e-6328-41e9-ad79-fa38cf75301a": "CRGCQ0603F100R"
+    },
+    "package": "fe22ac1d-25b9-4a47-8414-51c990d7f94b",
+    "pad_map": {
+        "63256dd2-2eab-46fe-9201-b2e553476e98": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        },
+        "6dd73a26-6e83-43b6-8317-09836acef67d": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        }
+    },
+    "parametric": {
+        "pmax": "0.1",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "100"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "5cbdc31f-5ea0-4238-beea-3216ca529d1d",
+    "value": [
+        false,
+        "100 Ω"
+    ]
+}

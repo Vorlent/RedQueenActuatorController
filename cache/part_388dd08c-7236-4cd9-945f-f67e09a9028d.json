@@ -1,0 +1,41 @@
+{
+    "MPN": [
+        false,
+        "NetSplitter"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Split Netlines"
+    ],
+    "entity": "3ce770af-7be0-4f72-b2af-2c8010911aaf",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "2d9b43b3-1827-4b51-a34e-62dcb8afcfe0",
+    "pad_map": {
+        "94e24d58-a1d2-48c1-81f7-8c580aa224bb": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        },
+        "cab34756-f67b-4b8d-8e3f-4317dc8ca725": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "388dd08c-7236-4cd9-945f-f67e09a9028d",
+    "value": [
+        false,
+        ""
+    ]
+}

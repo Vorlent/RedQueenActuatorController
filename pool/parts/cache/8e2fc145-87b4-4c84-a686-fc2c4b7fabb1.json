@@ -1,0 +1,72 @@
+{
+    "MPN": [
+        false,
+        "DMTH6002LPS-13"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.de/datasheet/2/115/DMTH6002LPS-1142721.pdf"
+    ],
+    "description": [
+        false,
+        "60V +175°C N-CHANNEL ENHANCEMENT MODE MOSFET"
+    ],
+    "entity": "c135130c-0663-4575-9083-3b328ac00c90",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Diodes"
+    ],
+    "model": "35abddb5-d110-412f-b045-8559db3652fe",
+    "package": "265317cc-2f59-4b28-80a8-0d5c80b2f8a1",
+    "pad_map": {
+        "03d12e82-d2ff-4398-a404-1b3fcd87a561": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "074c3718-08fd-4f94-88fc-2bb43174b245"
+        },
+        "4ccf8927-f01d-4239-a7f6-cdbb6780baf2": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "4887ef47-94f0-4fd1-b552-c424bd37a3e7"
+        },
+        "6355bceb-5838-4fcf-a273-694c8774bd61": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "4887ef47-94f0-4fd1-b552-c424bd37a3e7"
+        },
+        "6c5f0fc4-0f78-41bb-9509-de245278aac6": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "eb63ac9a-5d7e-42e2-92ea-a140a97f47d0"
+        },
+        "720be74a-803c-45a5-a694-b7807f70ab8b": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "eb63ac9a-5d7e-42e2-92ea-a140a97f47d0"
+        },
+        "9c82395d-abdf-4140-81e5-619f0d13dc54": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "4887ef47-94f0-4fd1-b552-c424bd37a3e7"
+        },
+        "e9543a4e-677e-45c9-aa04-668e47ac27d6": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "4887ef47-94f0-4fd1-b552-c424bd37a3e7"
+        },
+        "faeefdab-39a6-4278-a0eb-726f6ffc9a44": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "4887ef47-94f0-4fd1-b552-c424bd37a3e7"
+        },
+        "fbc4a224-671d-4a92-8509-6623885e5695": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "eb63ac9a-5d7e-42e2-92ea-a140a97f47d0"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "mosfet",
+        "smd"
+    ],
+    "type": "part",
+    "uuid": "8e2fc145-87b4-4c84-a686-fc2c4b7fabb1",
+    "value": [
+        false,
+        ""
+    ]
+}

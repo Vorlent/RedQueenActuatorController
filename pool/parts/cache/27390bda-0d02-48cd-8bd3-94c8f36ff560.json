@@ -1,0 +1,54 @@
+{
+    "MPN": [
+        false,
+        "C0805C104K3RACTU"
+    ],
+    "datasheet": [
+        false,
+        "https://eu.mouser.com/datasheet/2/212/KEM_C1002_X7R_SMD-1102033.pdf"
+    ],
+    "description": [
+        false,
+        "Multilayer Ceramic Capacitors"
+    ],
+    "entity": "ca83a84f-6183-4088-84b6-5d79b2a119d4",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "KEMET"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "742c3477-7dba-4bd3-8ab6-d5795bb7f377": "C0805C104K3RACTU"
+    },
+    "package": "912ac77a-2d3a-46ce-a60d-18eb7a750a7c",
+    "pad_map": {
+        "487097d5-96e7-4e99-841a-42e1abf1d9cc": {
+            "gate": "9bfcf213-2a7e-444e-8312-ce57209fc9ec",
+            "pin": "852f1fe6-06dc-4661-8a14-61a9a6ebb26a"
+        },
+        "a80c8983-726b-40b0-87a2-ef2e6575ff1b": {
+            "gate": "9bfcf213-2a7e-444e-8312-ce57209fc9ec",
+            "pin": "29995253-b4b1-4c7c-a049-b6db2713ca7c"
+        }
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "10",
+        "type": "X7R",
+        "value": "1e-07",
+        "wvdc": "25"
+    },
+    "tags": [
+        "capacitor",
+        "passive",
+        "smd"
+    ],
+    "type": "part",
+    "uuid": "27390bda-0d02-48cd-8bd3-94c8f36ff560",
+    "value": [
+        false,
+        "100 nF"
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "MPN": [
+        false,
+        "MA710GQ-Z"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.de/datasheet/2/277/MA710-1384169.pdf"
+    ],
+    "description": [
+        false,
+        "\nBoard Mount Hall Effect/Magnetic Sensors 12-bit, digital, contactless angle sensor with ABZ incremental & PWM outputs\n"
+    ],
+    "entity": "43ae0a89-4851-4cbc-86f1-704fc43dbf99",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Monolithic Power Systems"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "ab7248f3-d550-434e-9f97-8ada46b09804",
+    "pad_map": {
+        "01f1e369-1c09-4814-b1db-c74796494321": {
+            "gate": "c3295024-e0bc-43d5-80fc-16caea46245f",
+            "pin": "9764a48e-4869-4044-bcdb-b41267e7c0a3"
+        },
+        "0a48ff9a-4daf-41ab-90bf-a79ee6a9927a": {
+            "gate": "c3295024-e0bc-43d5-80fc-16caea46245f",
+            "pin": "c75a938d-7c11-4bd3-ad2c-7ec67e03fc3c"
+        },
+        "1525a70a-9005-4b7f-9aba-ab9e9b70ae9b": {
+            "gate": "c3295024-e0bc-43d5-80fc-16caea46245f",
+            "pin": "996e7422-b819-4d20-9061-268f1bf34465"
+        },
+        "1d4d1b68-abe0-4666-ab40-84335a41c0ef": {
+            "gate": "c3295024-e0bc-43d5-80fc-16caea46245f",
+            "pin": "8e233a95-55b3-45c9-a926-5e98ea21eb72"
+        },
+        "521f5fa1-3693-4acf-b06b-b6a9b8a5cf30": {
+            "gate": "c3295024-e0bc-43d5-80fc-16caea46245f",
+            "pin": "0651ff9e-f293-4228-b76c-f3597a62a183"
+        },
+        "52b8e909-69c1-408f-a75e-59cab89a69d1": {
+            "gate": "c3295024-e0bc-43d5-80fc-16caea46245f",
+            "pin": "0a5656ea-3539-423b-9c8e-29900815e383"
+        },
+        "58f45942-ee32-47fd-9e4e-a16c1ae6cd8b": {
+            "gate": "c3295024-e0bc-43d5-80fc-16caea46245f",
+            "pin": "47886767-3f42-4639-83cf-badd26ae4cdb"
+        },
+        "6233a030-3666-4de7-b3a8-4fda13d22ac3": {
+            "gate": "c3295024-e0bc-43d5-80fc-16caea46245f",
+            "pin": "618e0647-f833-4da2-972d-a786dfe0e4ca"
+        },
+        "67155d1b-c7e3-4893-b885-21572fe62676": {
+            "gate": "c3295024-e0bc-43d5-80fc-16caea46245f",
+            "pin": "809e4928-1b88-4ca8-83ea-f6952b31e257"
+        },
+        "770160ad-3e45-431c-8833-d1a3005649ba": {
+            "gate": "c3295024-e0bc-43d5-80fc-16caea46245f",
+            "pin": "81d340b0-3958-4310-b31c-9ee18bdf9c18"
+        },
+        "9e2ab086-173e-490f-b4e6-4814dea81b13": {
+            "gate": "c3295024-e0bc-43d5-80fc-16caea46245f",
+            "pin": "b5bc29e6-6e50-43f6-9420-43a531a0737d"
+        },
+        "a91890ed-7ab1-47b2-8fff-533d034fad8f": {
+            "gate": "c3295024-e0bc-43d5-80fc-16caea46245f",
+            "pin": "3267a95a-baec-4c57-8944-f02d8b2d435a"
+        },
+        "ac26fbcb-be68-48ca-a9b5-3b411577d83a": {
+            "gate": "c3295024-e0bc-43d5-80fc-16caea46245f",
+            "pin": "63f1337e-3fd1-4f74-89e8-26a796308168"
+        },
+        "bbd532ef-1e8d-40aa-ad15-b064324d790c": {
+            "gate": "c3295024-e0bc-43d5-80fc-16caea46245f",
+            "pin": "4b49eb7c-88f3-4aa8-a05a-d701d84bc454"
+        },
+        "ec3aadbd-1165-4ac6-8d9d-64849d04e9cb": {
+            "gate": "c3295024-e0bc-43d5-80fc-16caea46245f",
+            "pin": "da7d4055-509f-4d17-9ced-9b41d3443933"
+        },
+        "f70e0953-30c0-433b-b807-1b7e5458b58b": {
+            "gate": "c3295024-e0bc-43d5-80fc-16caea46245f",
+            "pin": "26a51127-7dfe-4394-90a0-ba591c14a89e"
+        },
+        "fe85c8c9-4364-4d44-9d74-2d68fa6c4ad1": {
+            "gate": "c3295024-e0bc-43d5-80fc-16caea46245f",
+            "pin": "36716bf3-65b1-428c-884b-54cc4c16a83c"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "28f1547c-5cfd-4873-9bad-e4d22ef7dfc2",
+    "value": [
+        false,
+        ""
+    ]
+}
